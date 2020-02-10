@@ -6,7 +6,7 @@ namespace WiredBrainCoffee.ShopInfoTool
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("WiredBrainCoffee - ShopInfoTool");
+            Console.WriteLine("Wired Brain Coffee - ShopInfoTool");
         }
     }
 }
